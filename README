@@ -1,6 +1,8 @@
 tr-standalone
 =============
 
+iPlant’s Tree Reconciliation Viewer allows visual searches of reconciled tree data from a variety of entry points. 
+
 This is alpha code. It worked when we ran it, but no guarantees of any kind are made that it will work for anyone else anywhere.
 
 An update to this README is in progress.
@@ -14,5 +16,12 @@ DEPENDENCIES
 
 This code requires:
 
- * item 1
+ * Google Web Toolkit (GWT) 2.1.1
+ * GXT 2.2.1
+ * iPlant Phyloviewer
+ * iPlant Viewer-Editor Framework
+ * Java 1.6.0
+ * org.json
+ * log4j 1.2.14
+ * iPlant de-common
 
