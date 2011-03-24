@@ -1,29 +1,34 @@
 tr-standalone
 =============
 
+==INTRODUCTION
 iPlant's Tree Reconciliation Viewer allows visual searches of reconciled tree data from a variety of entry points. 
 
 This is alpha code. It worked when we ran it, but no guarantees of any kind are made that it will work for anyone else anywhere.
 
+More information about iPlant's Open Source policies and current status is available at http://iplantcollaborative.org/about/policies/open-source
+
 An update to this README is in progress.
 
 
-LICENSE
+==LICENSE
 See the LICENSE file included with this code.
 
 
-INSTALLATION
+==SOURCE
+Source code is available at: https://github.com/iPlantCollaborativeOpenSource/tr-standalone
 
+
+==INSTALLATION
 To install...
 
 
-BUILD INFORMATION
-
+==BUILD INFORMATION
 Build info for Apache Maven is in pom.xml.
+http://maven.apache.org/
 
 
-DEPENDENCIES
-
+==DEPENDENCIES
 This code requires:
 
  * Google Web Toolkit (GWT) 2.1.1
@@ -35,3 +40,6 @@ This code requires:
  * log4j 1.2.14
  * iPlant de-common
 
+
+==ISSUES/BUGS/QUESTIONS
+Coming...
